@@ -29,7 +29,6 @@ if threads < 0:
     sys.exit()
 
 # Add a pretty banner
-# Add a pretty banner
 print("\033[94m" + "-" * 60 + "\033[0m")
 print("\033[94m" + " ___         ___                                      " + "\033[0m")
 print("\033[94m" + "(  _ \      (  _ \                                    " + "\033[0m")
