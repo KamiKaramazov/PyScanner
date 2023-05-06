@@ -11,7 +11,7 @@ git clone https://github.com/KamiKaramazov/PyScanner.git
 
 ## Usage
 ```sh
-python3 scanner.py <ip>
+python3 PyScanner.py <ip>
 ```
 The tool will request the user to input the starting and finishing port ranges, as well as the number of scanning threads. When the scan is finished, a list of open ports with their related service names (if available) will be shown.
 
